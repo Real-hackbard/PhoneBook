@@ -42,5 +42,5 @@ A digital phone book listview refers to an online phone directory or a digital a
 
 </br>
 
-
+All entries are automatically saved or loaded, provided they are in the correct location. Both methods can be separated from the code and used independently.
 
