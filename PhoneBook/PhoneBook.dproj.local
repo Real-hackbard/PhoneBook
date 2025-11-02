@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.779,D:\Incoming\[.WORK]\PhoneBook\PhoneBook\aSPL_PhoneBook.dproj=D:\Incoming\[.WORK]\PhoneBook\PhoneBook\PhoneBook.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.948,D:\Incoming\[.WORK]\PhoneBook\PhoneBook\new_phone.dfm=D:\Incoming\[.WORK]\PhoneBook\PhoneBook\NewEntry.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.948,D:\Incoming\[.WORK]\PhoneBook\PhoneBook\new_phone.pas=D:\Incoming\[.WORK]\PhoneBook\PhoneBook\NewEntry.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.995,D:\Incoming\[.WORK]\PhoneBook\PhoneBook\main.dfm=D:\Incoming\[.WORK]\PhoneBook\PhoneBook\PhoneMain.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.995,D:\Incoming\[.WORK]\PhoneBook\PhoneBook\main.pas=D:\Incoming\[.WORK]\PhoneBook\PhoneBook\PhoneMain.pas</Transaction>
+  </Transactions>
+</BorlandProject>
