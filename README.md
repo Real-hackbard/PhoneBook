@@ -26,7 +26,7 @@ A file tree for a "digital PhoneBook" might look like this.
 </br>
 
 # Example ListView:
-A digital phone book listview refers to an online phone directory or a digital address book application that presents contact information in a scrollable list format, often with options to search and sort. Examples include online directories like Whitepages and Das Telefonbuch, as well as personal digital contact lists in apps.
+A digital phone book listview refers to an online phone directory or a digital address book application that presents contact information in a scrollable list format, often with options to search and sort. Examples include online directories like Whitepages and Das Telefonbuch, as well as personal digital contact lists in apps. The data source is the collection of contact data to be displayed.
 
 * ```<PhoneBook>``` The main directory of the telephone book.
 * Entrys in a ListView
