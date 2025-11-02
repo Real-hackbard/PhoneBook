@@ -31,6 +31,10 @@ A digital phone book listview refers to an online phone directory or a digital a
 * ```<PhoneBook>``` The main directory of the telephone book.
 * Entrys in a ListView
 * Export in Excel, Word, HTML, Textdocument
+* These are personal or business-specific applications or documents for storing and organizing contact information.
+* They often function like a personal, digital version of a phone book, storing details such as name, address, phone, and email.
+* Users can typically sort, search, and manage their contacts within the app.
+* Some are available as downloadable templates, for example, for use on tablets with apps like Goodnotes. 
 
 </br>
 
