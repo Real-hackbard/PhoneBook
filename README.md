@@ -14,3 +14,13 @@
 These are two examples of how to create a digital phone book with a database. Both versions operate independently and have separate databases. Digital phone books come in various forms, which can be used depending on the need.
 
 # Example TreeNode:
+A file tree for a "digital PhoneBook" might look like this.
+* ```PhoneBook``` The main directory of the telephone book.
+* ```PhoneBook\entry``` Files that back up the content of the information.
+* ```PhoneBook\Folder\entry``` Files in the subfolder that back up the information.
+
+</br>
+
+![PhoneBook1](https://github.com/user-attachments/assets/16489969-c813-4280-9ae2-ae842cab689e)
+
+</br>
